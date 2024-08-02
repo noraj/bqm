@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.description   = 'Deduplicate custom BloudHound queries from different datasets and merge them in one customqueries.json file.'
   s.authors       = ['Alexandre ZANNI']
   s.email         = 'alexandre.zanni@europe.com'
-  s.homepage      = 'https://github.com/Acceis/bqm'
+  s.homepage      = 'https://github.com/noraj/bqm'
   s.license       = 'MIT'
 
   s.files         = Dir['data/*.json'] + Dir['bin/*'] + ['LICENSE', 'DOC.md']
@@ -16,11 +16,11 @@ Gem::Specification.new do |s|
   s.executables   = s.files.grep(%r{^bin/}) { |f| File.basename(f) }
 
   s.metadata = {
-    'bug_tracker_uri'       => 'https://github.com/Acceis/bqm/issues',
-    'changelog_uri'         => 'https://github.com/Acceis/bqm/releases',
-    'documentation_uri'     => 'https://acceis.github.io/bqm/',
-    'homepage_uri'          => 'https://github.com/Acceis/bqm',
-    'source_code_uri'       => 'https://github.com/Acceis/bqm/',
+    'bug_tracker_uri'       => 'https://github.com/noraj/bqm/issues',
+    'changelog_uri'         => 'https://github.com/noraj/bqm/releases',
+    'documentation_uri'     => 'https://noraj.github.io/bqm/',
+    'homepage_uri'          => 'https://github.com/noraj/bqm',
+    'source_code_uri'       => 'https://github.com/noraj/bqm/',
     'funding_uri'           => 'https://github.com/sponsors/noraj',
     'rubygems_mfa_required' => 'true'
   }

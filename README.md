@@ -1,12 +1,12 @@
 # BQM (Bloodhound Query Merger)
 
-[![GitHub forks](https://img.shields.io/github/forks/Acceis/bqm)](https://github.com/Acceis/bqm/network)
-[![GitHub stars](https://img.shields.io/github/stars/Acceis/bqm)](https://github.com/Acceis/bqm/stargazers)
-[![GitHub license](https://img.shields.io/github/license/Acceis/bqm)](https://github.com/Acceis/bqm/blob/master/LICENSE)
+[![GitHub forks](https://img.shields.io/github/forks/noraj/bqm)](https://github.com/noraj/bqm/network)
+[![GitHub stars](https://img.shields.io/github/stars/noraj/bqm)](https://github.com/noraj/bqm/stargazers)
+[![GitHub license](https://img.shields.io/github/license/noraj/bqm)](https://github.com/noraj/bqm/blob/master/LICENSE)
 [![Rawsec's CyberSecurity Inventory](https://inventory.raw.pm/img/badges/Rawsec-inventoried-FF5050_flat.svg)](https://inventory.raw.pm/tools.html#BQM)
 
-![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/Acceis/bqm/ruby.yml?branch=master)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Acceis/bqm)
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/noraj/bqm/ruby.yml?branch=master)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/noraj/bqm)
 
 ![BQM logo](assets/logo-bqm.png)
 
@@ -34,7 +34,7 @@
 No install, just clone the repository and run! No dependencies, just pure Ruby.
 
 ```bash
-git clone https://github.com/Acceis/bqm.git && cd bqm
+git clone https://github.com/noraj/bqm.git && cd bqm
 ruby bin/bqm -h
 ```
 
@@ -93,7 +93,7 @@ Datasets used by BQM are referenced in `data/query-sets.json`. They are coming f
 
 ## Author
 
-Made by Alexandre ZANNI ([@noraj](https://pwn.by/noraj/)) for [ACCEIS](https://www.acceis.fr/).
+Made by Alexandre ZANNI ([@noraj](https://pwn.by/noraj/)). Forked from [acceis/bqm](https://github.com/acceis/bqm).
 
 ## Credits
 
