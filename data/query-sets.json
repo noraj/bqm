@@ -1,6 +1,5 @@
 {
   "sets": [
-    "https://raw.githubusercontent.com/ly4k/Certipy/main/customqueries.json",
     "https://raw.githubusercontent.com/CompassSecurity/BloodHoundQueries/master/BloodHound_Custom_Queries/customqueries.json",
     "https://raw.githubusercontent.com/hausec/Bloodhound-Custom-Queries/master/customqueries.json",
     "https://raw.githubusercontent.com/awsmhacks/awsmBloodhoundCustomQueries/master/customqueries.json",

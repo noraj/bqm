@@ -77,7 +77,6 @@ See [DOC](DOC.md) for more explanation about some options.
 
 Datasets used by BQM are referenced in `data/query-sets.json`. They are coming from the following projects:
 
-- [ly4k/Certipy](https://github.com/ly4k/Certipy)
 - [CompassSecurity/BloodHoundQueries](https://github.com/CompassSecurity/BloodHoundQueries)
 - [hausec/Bloodhound-Custom-Queries](https://github.com/hausec/Bloodhound-Custom-Queries)
 - [awsmhacks/awsmBloodhoundCustomQueries](https://github.com/awsmhacks/awsmBloodhoundCustomQueries)
