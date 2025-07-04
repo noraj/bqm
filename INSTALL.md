@@ -28,16 +28,16 @@ PKGBUILD: [bqm](https://github.com/BlackArch/blackarch/blob/master/packages/bqm/
 
 Manually:
 
-```
-$ git clone https://aur.archlinux.org/bqm.git
-$ cd bqm
-$ makepkg -fsri
+```bash
+git clone https://aur.archlinux.org/bqm.git
+cd bqm
+makepkg -fsri
 ```
 
-With an AUR helper ([Pacman wrappers](https://wiki.archlinux.org/index.php/AUR_helpers#Pacman_wrappers)), eg. pikaur:
+With an AUR helper ([Pacman wrappers](https://wiki.archlinux.org/index.php/AUR_helpers#Pacman_wrappers)), e.g. yay:
 
-```
-$ pikaur -S bqm
+```bash
+yay -S bqm
 ```
 
 AUR: [bqm](https://aur.archlinux.org/packages/bqm/)
