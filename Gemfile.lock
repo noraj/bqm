@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    bqm (1.5.1)
+    bqm (1.5.2)
 
 GEM
   remote: https://rubygems.org/
